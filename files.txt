@@ -1,9 +1,0 @@
-webook_bot/
-├── app.py
-├── requirements.txt
-├── Procfile
-├── .gitignore
-├── templates/
-│   └── index.html
-└── static/
-    └── style.css (اختياري)
